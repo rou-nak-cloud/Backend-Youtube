@@ -81,7 +81,7 @@ npm run dev
 ```
 
 ### ⚙️ Environment Setup
-
+```bash
 Create a .env file in the root and add the following:
 
 PORT=8000
@@ -91,6 +91,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 ACCESS_TOKEN_SECRET=your_jwt_access_token_secret
 REFRESH_TOKEN_SECRET=your_jwt_refresh_token_secret
+```
 
 
 ### For full routes, refer to the /routes/ directory.
@@ -100,8 +101,8 @@ REFRESH_TOKEN_SECRET=your_jwt_refresh_token_secret
 Includes visual flow of auth, upload, playlists, and DB schema.
 
 🙌 Author
-Rounak Bakshi(https://github.com/rou-nak-cloud/Backend-Youtube)
-GitHub: [rou-nak-cloud]()
+Rounak Bakshi
+GitHub: [rou-nak-cloud]
 
 
 
